@@ -1,0 +1,7 @@
+#root {
+  padding:1rem;
+  background-color: rgba(0,0,0,0.5);
+  display: grid;
+  place-items: center;
+}
+
